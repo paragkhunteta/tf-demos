@@ -1,2 +1,2 @@
-# tf-demos
-Deploy AWS infrastructure using github actions and terraform 
+# github-actions-terraform
+github-actions-terraform
